@@ -57,8 +57,6 @@ void solve(){
     if(sf == 0){
         cout<<n/6<<" "<<n/4<<endl;
     }
-
-    
 }
 
 int main(){
